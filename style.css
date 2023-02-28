@@ -4,7 +4,7 @@
    
     background-color: blue;
     color: white;
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
     transition: 2s;
     border-radius: 25px;
@@ -23,6 +23,7 @@ body{
 }
  @media only screen and (max-width:540px){
     .q{
+        width: 70vw;
         margin-left: 50px;
         font-size: 10px;
         text-align: center;
